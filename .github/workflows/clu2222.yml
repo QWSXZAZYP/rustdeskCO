@@ -1,5 +1,5 @@
 # DDDD
-name: Build CLI222
+name: Build CLI222XZ
 on:
   workflow_call:
     inputs:
